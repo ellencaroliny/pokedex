@@ -27,4 +27,4 @@ A Pokédex é uma enciclopédia eletrônica no universo Pokémon que fornece inf
 1. Clone este repositório:
 
    ```bash
-   git clone (https://github.com/ellen-caroliny/pokedex)
+   git clone (https://github.com/ellen-caroliny/pokedex.git)
