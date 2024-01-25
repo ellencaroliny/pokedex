@@ -27,7 +27,7 @@ Bem-vindo ao Pokédex! Este é um projeto minimalista que você consegue pesquis
 - JavaScript: Obtém e exibe dados do Pokémon usando a PokeAPI.
 
 ## Como Usar
-Acesse o site em live: https://ellen-caroliny.github.io/pokedex/
+Acesse o site em live: https://ellencaroliny.github.io/pokedex/
 ou 
 1. Clone este repositório:
 
@@ -35,5 +35,5 @@ ou
 
   ```bash
 
-  git clone https://github.com/ellen-caroliny/pokedex.git
+  git clone https://github.com/ellencaroliny/pokedex.git
 
